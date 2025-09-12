@@ -1,4 +1,4 @@
-# 🌍 Excursion Landing Page
+# Excursion Landing Page
 
 A simple landing page for **Excursion**, a fictional travel app that helps users discover hidden places and remember their favorite spots.  
 Built with **HTML5** and **CSS3**.
